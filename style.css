@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: linear-gradient(to right top, #83036d, #98006b, #ab0067, #bd0061, #cd005a);
+}
+
+#hero-text {
+  padding-top: 25vw;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+text-shadow: 2px 2px darkslategray;
+}
+select {
+  appearance: none;
+  background-color: rgba(0,0,0,0);
+  outline: 0;
+  color: whitesmoke;
+text-shadow: 2px 2px darkslategray;
+  font-family: "Comfortaa", sans-serif;
+  height: 50px;
+  font-size: 50px;
+}
+}
